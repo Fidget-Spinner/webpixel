@@ -1,0 +1,6 @@
+article, body, div, p, nav, aside, section {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
